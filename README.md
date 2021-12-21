@@ -1,0 +1,1 @@
+# test_rapid_ocr_qt
